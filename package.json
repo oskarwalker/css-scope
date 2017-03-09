@@ -1,0 +1,14 @@
+{
+  "name": "css-scope",
+  "version": "1.0.0",
+  "description": "Scope css-input to a given class",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oskarwalker/css-scope.git"
+  },
+  "author": "Oskar Walker",
+  "dependencies": {
+    "css": "^2.2.1"
+  }
+}
